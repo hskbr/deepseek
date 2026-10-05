@@ -1,0 +1,6 @@
+{
+  "name": "deepseek",
+  "description": "Chat inteligente e intuitivo em português utilizando o modelo DeepSeek v4 Flash via API Roteia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
